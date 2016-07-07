@@ -1,3 +1,14 @@
+.btn-primary {color:#000; background-color:#fd0;}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {color: #fff; background-color:#000;}
+
+body {color:#000;}
+
+a {color: #b60;}
+a:hover {color: #000;}
+
+div.row.header a {color: #fd0; font-weight:bold;}
+div.row.header a:hover {color: #fff; text-decoration: underline;}
+
 a:hover {
     text-decoration: none;
 }
